@@ -23,7 +23,30 @@ def amalgamate_regions(airports_df,regions_df,airport_name_indices_dict):
     for i in range(num_regions): #very inefficient computer timewise, but this will not be our performance bottleneck and will be easier to write and understand
         airports = regions_df.iloc[i]["Airports"]
         states = regions_df.iloc[i]["States"]
-        #countries =
+        countries = regions_df.iloc[i]["Countries"]
+        fractions_raw = regions_df.iloc[i]["Fractions"]
+        airports = str(airports).split(',')
+        states = str(states).split(',')
+        countries = str(countries).split(',')
+        fractions_raw = str(fractions_raw).split(',')
+        num_airports = len(airports)
+        if len(states)==1:
+            states = states*num_airports
+        if len(countries)==1:
+            countries = countries*num_airports
+        for j in range(num_airports):
+            unique_name = (airports[j],states[j],countries[j])
+            if unique_name in airport_name_indices_dict:
+                pass
+            else:
+                print(unique_name," not found in dictionary of airports")
+                print("region is ",regions_df.iloc[i]["Name"])
+            
+
+
+
+
+
 
     return airports_df
 
