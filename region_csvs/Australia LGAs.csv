@@ -45,7 +45,7 @@ Name Raw,Name,Population,Weekly Household Equivalised Income,Product,Multiple of
 10800: Bland,Bland,5494,876,4812744,0.80,53.44,Griffith,NSW,Australia,1
 10850: Blayney,Blayney,7591,964,7317724,0.88,58.81,Bathurst,NSW,Australia,1
 10900: Blue Mountains,Blue Mountains,77913,1086,84613518,0.99,66.25,Sydney,NSW,Australia,1
-50630: Boddington,Boddington,1757,1065,1871205,0.97,64.97,Perth,NSW,Australia,1
+50630: Boddington,Boddington,1757,1065,1871205,0.97,64.97,Perth,WA,Australia,1
 10950: Bogan,Bogan,2454,941,2309214,0.86,57.41,Cobar,NSW,Australia,1
 21110: Boroondara,Boroondara,169500,1570,266115000,1.43,95.78,Melbourne,VIC,Australia,1
 30900: Boulia,Boulia,474,1095,519030,1.00,66.80,Mount Isa,QLD,Australia,1
@@ -86,7 +86,7 @@ Name Raw,Name,Population,Weekly Household Equivalised Income,Product,Multiple of
 51400: Capel,Capel,19002,1125,21377250,1.02,68.63,Bunbury,WA,Australia,1
 21450: Cardinia,Cardinia,123104,1060,130490240,0.97,64.67,Melbourne,VIC,Australia,1
 51470: Carnamah,Carnamah,572,833,476476,0.76,50.82,Geraldton,WA,Australia,1
-51540: Carnarvon,Carnarvon,5518,957,5280726,0.87,58.38,Carnavon,WA,Australia,1
+51540: Carnarvon,Carnarvon,5518,957,5280726,0.87,58.38,Carnarvon,WA,Australia,1
 32250: Carpentaria,Carpentaria,2171,937,2034227,0.85,57.16,Normanton,QLD,Australia,1
 11600: Carrathool,Carrathool,2829,981,2775249,0.89,59.85,Griffith,NSW,Australia,1
 21610: Casey,Casey,378831,1030,390195930,0.94,62.84,Melbourne,VIC,Australia,1
@@ -101,7 +101,7 @@ Name Raw,Name,Population,Weekly Household Equivalised Income,Product,Multiple of
 61010: Central Highlands (Tas.),Central Highlands (Tas.),2586,683,1766238,0.62,41.67,Hobart,TAS,Australia,1
 11720: Cessnock,Cessnock,65878,917,60410126,0.83,55.94,Newcastle,NSW,Australia,1
 51610: Chapman Valley,Chapman Valley,1636,1188,1943568,1.08,72.48,Geraldton,WA,Australia,1
-41060: Charles Sturt,Charles Sturt,124864,1021,127486144,0.93,62.29,Adelaide,NSW,Australia,1
+41060: Charles Sturt,Charles Sturt,124864,1021,127486144,0.93,62.29,Adelaide,SA,Australia,1
 32310: Charters Towers,Charters Towers,11981,856,10255736,0.78,52.22,"Townsville,Hughenden",QLD,Australia,"0.8,0.2"
 32330: Cherbourg,Cherbourg,1228,452,555056,0.41,27.58,Sunshine Coast,QLD,Australia,1
 51680: Chittering,Chittering,6296,1157,7284472,1.05,70.59,Perth,WA,Australia,1
@@ -114,12 +114,12 @@ Name Raw,Name,Population,Weekly Household Equivalised Income,Product,Multiple of
 41190: Cleve,Cleve,1765,790,1394350,0.72,48.20,Port Lincoln,SA,Australia,1
 32450: Cloncurry,Cloncurry,3789,1230,4660470,1.12,75.04,Mount Isa,QLD,Australia,1
 11750: Cobar,Cobar,4046,1155,4673130,1.05,70.46,Cobar,NSW,Australia,1
-51820: Cockburn,Cockburn,125123,1199,150022477,1.09,73.15,Perth,NSW,Australia,1
-51860: Cocos Islands,Cocos Islands,614,1066,654524,0.97,65.03,Cocos (Keeling) Island,NSW,Australia,1
+51820: Cockburn,Cockburn,125123,1199,150022477,1.09,73.15,Perth,WA,Australia,1
+51860: Cocos Islands,Cocos Islands,614,1066,654524,0.97,65.03,Cocos (Keeling) Island,,Australia,1
 11800: Coffs Harbour,Coffs Harbour,79725,864,68882400,0.79,52.71,Coffs Harbour,NSW,Australia,1
-21750: Colac Otway,Colac Otway,22188,855,18970740,0.78,52.16,Warrnambool,NSW,Australia,1
-51890: Collie,Collie,9150,813,7438950,0.74,49.60,Bunbury,NSW,Australia,1
-41330: Coober Pedy,Coober Pedy,1574,571,898754,0.52,34.84,Coober Pedy,NSW,Australia,1
+21750: Colac Otway,Colac Otway,22188,855,18970740,0.78,52.16,Warrnambool,VIC,Australia,1
+51890: Collie,Collie,9150,813,7438950,0.74,49.60,Bunbury,WA,Australia,1
+41330: Coober Pedy,Coober Pedy,1574,571,898754,0.52,34.84,Coober Pedy,SA,Australia,1
 32500: Cook,Cook,4673,774,3616902,0.70,47.22,"Cairns,Weipa",QLD,Australia,"0.5,0.5"
 12000: Coolamon,Coolamon,4465,819,3656835,0.75,49.97,Wagga Wagga,NSW,Australia,1
 51960: Coolgardie,Coolgardie,3635,1205,4380175,1.10,73.51,Kalgoorie,WA,Australia,1
@@ -129,7 +129,7 @@ Name Raw,Name,Population,Weekly Household Equivalised Income,Product,Multiple of
 52030: Coorow,Coorow,1091,700,763700,0.64,42.71,Geraldton,WA,Australia,1
 12160: Cootamundra-Gundagai Regional,Cootamundra-Gundagai Regional,11404,754,8598616,0.69,46.00,Wagga Wagga,NSW,Australia,1
 41560: Copper Coast,Copper Coast,15648,676,10578048,0.62,41.24,Adelaide,SA,Australia,1
-21830: Corangamite,Corangamite,15993,834,13338162,0.76,50.88,Warrnambool,NSW,Australia,1
+21830: Corangamite,Corangamite,15993,834,13338162,0.76,50.88,Warrnambool,VIC,Australia,1
 52100: Corrigin,Corrigin,1022,927,947394,0.84,56.55,Perth,WA,Australia,1
 52170: Cottesloe,Cottesloe,8308,2050,17031400,1.87,125.07,Perth,WA,Australia,1
 12350: Cowra,Cowra,12705,735,9338175,0.67,44.84,"Parkes,Bathurst",NSW,Australia,"0.5,0.5"
@@ -238,7 +238,7 @@ Name Raw,Name,Population,Weekly Household Equivalised Income,Product,Multiple of
 14300: Junee,Junee,6465,896,5792640,0.82,54.66,Wagga Wagga,NSW,Australia,1
 54200: Kalamunda,Kalamunda,61256,1110,67994160,1.01,67.72,Perth,WA,Australia,1
 54280: Kalgoorlie-Boulder,Kalgoorlie-Boulder,30726,1528,46949328,1.39,93.22,Kalgoorie,WA,Australia,1
-42750: Kangaroo Island,Kangaroo Island,5088,782,3978816,0.71,47.71,Kingscote,WA,Australia,1
+42750: Kangaroo Island,Kangaroo Island,5088,782,3978816,0.71,47.71,Kingscote (Kangaroo Island),SA,Australia,1
 43080: Karoonda East Murray,Karoonda East Murray,1027,593,609011,0.54,36.18,Adelaide,SA,Australia,1
 54310: Karratha,Karratha,23787,1892,45005004,1.72,115.43,Karratha,WA,Australia,1
 54340: Katanning,Katanning,4233,861,3644613,0.78,52.53,Albany,WA,Australia,1
@@ -266,9 +266,9 @@ Name Raw,Name,Population,Weekly Household Equivalised Income,Product,Multiple of
 54900: Lake Grace,Lake Grace,1288,1113,1433544,1.01,67.90,Albany,WA,Australia,1
 14650: Lake Macquarie,Lake Macquarie,216603,996,215736588,0.91,60.76,Newcastle,NSW,Australia,1
 14700: Lane Cove,Lane Cove,40076,1866,74781816,1.70,113.84,Sydney,NSW,Australia,1
-63810: Latrobe (Tas.),Latrobe (Tas.),12922,830,10725260,0.76,50.64,Launceston,NSW,Australia,1
+63810: Latrobe (Tas.),Latrobe (Tas.),12922,830,10725260,0.76,50.64,Launceston,TAS,Australia,1
 23810: Latrobe (Vic.),Latrobe (Vic.),77668,833,64697444,0.76,50.82,Morwell,VIC,Australia,1
-64010: Launceston,Launceston,71878,867,62318226,0.79,52.89,Launceston,NSW,Australia,1
+64010: Launceston,Launceston,71878,867,62318226,0.79,52.89,Launceston,TAS,Australia,1
 54970: Laverton,Laverton,1434,547,784398,0.50,33.37,Kalgoorie,WA,Australia,1
 14750: Leeton,Leeton,11454,904,10354416,0.82,55.15,Griffith,NSW,Australia,1
 55040: Leonora,Leonora,1721,1340,2306140,1.22,81.75,Kalgoorie,WA,Australia,1
@@ -350,7 +350,7 @@ Name Raw,Name,Population,Weekly Household Equivalised Income,Product,Multiple of
 15650: Muswellbrook,Muswellbrook,16540,1025,16953500,0.93,62.53,Newcastle,NSW,Australia,1
 15700: Nambucca Valley,Nambucca Valley,20610,648,13355280,0.59,39.53,Coffs Harbour,NSW,Australia,1
 56300: Nannup,Nannup,1592,749,1192408,0.68,45.69,Bunbury,WA,Australia,1
-35670: Napranum,Napranum,906,454,411324,0.41,27.70,Weipa,WA,Australia,1
+35670: Napranum,Napranum,906,454,411324,0.41,27.70,Weipa,QLD,Australia,1
 45090: Naracoorte Lucindale,Naracoorte Lucindale,8917,917,8176889,0.83,55.94,Mount Gambier,SA,Australia,1
 56370: Narembeen,Narembeen,822,1064,874608,0.97,64.91,Perth,WA,Australia,1
 15750: Narrabri,Narrabri,12721,966,12288486,0.88,58.93,Narrabri,NSW,Australia,1
@@ -400,7 +400,7 @@ Name Raw,Name,Population,Weekly Household Equivalised Income,Product,Multiple of
 46450: Port Pirie,Port Pirie,17621,714,12581394,0.65,43.56,Port Augusta,SA,Australia,1
 16400: Port Stephens,Port Stephens,76672,878,67318016,0.80,53.56,Newcastle,NSW,Australia,1
 46510: Prospect,Prospect,22744,1240,28202560,1.13,75.65,Adelaide,SA,Australia,1
-25990: Pyrenees,Pyrenees,7651,728,5569928,0.66,44.41,Ballarat,SA,Australia,1
+25990: Pyrenees,Pyrenees,7651,728,5569928,0.66,44.41,Ballarat,VIC,Australia,1
 57350: Quairading,Quairading,982,744,730608,0.68,45.39,Perth,WA,Australia,1
 16490: Queanbeyan-Palerang Regional,Queanbeyan-Palerang Regional,64233,1447,92945151,1.32,88.28,Canberra,ACT,Australia,1
 26080: Queenscliffe,Queenscliffe,3220,1065,3429300,0.97,64.97,Melbourne,VIC,Australia,1
@@ -421,14 +421,14 @@ Name Raw,Name,Population,Weekly Household Equivalised Income,Product,Multiple of
 57630: Sandstone,Sandstone,119,850,101150,0.77,51.86,Meekatharra,WA,Australia,1
 36510: Scenic Rim,Scenic Rim,44333,866,38392378,0.79,52.83,"Gold Coast,Brisbane",QLD,Australia,"0.5,0.5"
 57700: Serpentine-Jarrahdale,Serpentine-Jarrahdale,34773,1174,40823502,1.07,71.62,Perth,WA,Australia,1
-57770: Shark Bay,Shark Bay,1081,894,966414,0.81,54.54,"Carnavon,Geraldton",WA,Australia,"0.5,0.5"
+57770: Shark Bay,Shark Bay,1081,894,966414,0.81,54.54,"Carnarvon,Geraldton",WA,Australia,"0.5,0.5"
 16900: Shellharbour,Shellharbour,78332,977,76530364,0.89,59.60,Wollongong,NSW,Australia,1
 16950: Shoalhaven,Shoalhaven,109611,803,88017633,0.73,48.99,Wollongong,NSW,Australia,1
 17000: Singleton,Singleton,25093,1157,29032601,1.05,70.59,Newcastle,NSW,Australia,1
 17040: Snowy Monaro Regional,Snowy Monaro Regional,21823,1026,22390398,0.93,62.59,"Canberra,Bega","ACT,NSW",Australia,"0.7,0.3"
 17080: Snowy Valleys,Snowy Valleys,14936,854,12755344,0.78,52.10,Wagga Wagga,NSW,Australia,1
 36580: Somerset,Somerset,25713,799,20544687,0.73,48.75,"Toowoomba,Brisbane,Sunshine Coast",QLD,Australia,"0.4,0.4,0.2"
-64810: Sorell,Sorell,17430,897,15634710,0.82,54.72,Hobart,NSW,Australia,1
+64810: Sorell,Sorell,17430,897,15634710,0.82,54.72,Hobart,TAS,Australia,1
 36630: South Burnett,South Burnett,33789,682,23044098,0.62,41.61,"Toowoomba,Sunshine Coast",QLD,Australia,"0.5,0.5"
 26170: South Gippsland,South Gippsland,30697,824,25294328,0.75,50.27,Morwell,VIC,Australia,1
 57840: South Perth,South Perth,45137,1372,61927964,1.25,83.70,Perth,WA,Australia,1
@@ -452,7 +452,7 @@ Name Raw,Name,Population,Weekly Household Equivalised Income,Product,Multiple of
 58190: Tammin,Tammin,403,732,294996,0.67,44.66,Perth,WA,Australia,1
 17310: Tamworth Regional,Tamworth Regional,64522,915,59037630,0.83,55.82,Tamworth,NSW,Australia,1
 65210: Tasman,Tasman,2676,603,1613628,0.55,36.79,Hobart,TAS,Australia,1
-47630: Tatiara,Tatiara,7038,955,6721290,0.87,58.26,Mount Gambier,VIC,Australia,1
+47630: Tatiara,Tatiara,7038,955,6721290,0.87,58.26,Mount Gambier,SA,Australia,1
 47700: Tea Tree Gully,Tea Tree Gully,102619,1005,103132095,0.92,61.31,Adelaide,SA,Australia,1
 17350: Temora,Temora,5996,786,4712856,0.72,47.95,Wagga Wagga,NSW,Australia,1
 17400: Tenterfield,Tenterfield,6879,609,4189311,0.55,37.15,Armidale,NSW,Australia,1
@@ -472,15 +472,15 @@ Name Raw,Name,Population,Weekly Household Equivalised Income,Product,Multiple of
 89399: Unincorporated ACT,Unincorporated ACT,456844,1553,709478732,1.41,94.75,Canberra,ACT,Australia,1
 19399: Unincorporated NSW,Unincorporated NSW,1000,1088,1088000,0.99,66.38,Broken Hill,NSW,Australia,1
 79399: Unincorporated NT,Unincorporated NT,7628,1393,10625804,1.27,84.98,"Darwin,Uluru",NT,Australia,"0.85,0.15"
-49399: Unincorporated SA,Unincorporated SA,3024,773,2337552,0.70,47.16,"Port Augusta,Roxby Downs,Coober Pedy,Ceduna",,Australia,"0.4,0.2,0.2,0.2"
+49399: Unincorporated SA,Unincorporated SA,3024,773,2337552,0.70,47.16,"Port Augusta,Roxby Downs,Coober Pedy,Ceduna",SA,Australia,"0.4,0.2,0.2,0.2"
 29399: Unincorporated Vic,Unincorporated Vic,961,1095,1052295,1.00,66.80,Melbourne,VIC,Australia,1
 47980: Unley,Unley,39082,1309,51158338,1.19,79.86,Adelaide,SA,Australia,1
-58470: Upper Gascoyne,Upper Gascoyne,188,680,127840,0.62,41.49,Carnavon,WA,Australia,1
+58470: Upper Gascoyne,Upper Gascoyne,188,680,127840,0.62,41.49,Carnarvon,WA,Australia,1
 17620: Upper Hunter Shire,Upper Hunter Shire,14293,946,13521178,0.86,57.71,Tamworth,NSW,Australia,1
 17640: Upper Lachlan Shire,Upper Lachlan Shire,8551,939,8029389,0.86,57.29,Goulburn,NSW,Australia,1
 17650: Uralla,Uralla,5985,868,5194980,0.79,52.95,Armidale,NSW,Australia,1
 48050: Victor Harbor,Victor Harbor,16726,675,11290050,0.61,41.18,Adelaide,SA,Australia,1
-74550: Victoria Daly,Victoria Daly,3263,561,1830543,0.51,34.23,"Katherine,Kununurra",NT,Australia,"0.5,0.5"
+74550: Victoria Daly,Victoria Daly,3263,561,1830543,0.51,34.23,"Katherine,Kununurra","NT,WA",Australia,"0.5,0.5"
 58510: Victoria Park,Victoria Park,38687,1241,48010567,1.13,75.71,Perth,WA,Australia,1
 58540: Victoria Plains,Victoria Plains,824,1139,938536,1.04,69.49,Perth,WA,Australia,1
 58570: Vincent,Vincent,38442,1561,60007962,1.42,95.23,Perth,WA,Australia,1
@@ -497,7 +497,7 @@ Name Raw,Name,Population,Weekly Household Equivalised Income,Product,Multiple of
 65410: Waratah-Wynyard,Waratah-Wynyard,14689,755,11090195,0.69,46.06,Launceston,TAS,Australia,1
 58820: Waroona,Waroona,4399,844,3712756,0.77,51.49,Bunbury,WA,Australia,1
 17950: Warren,Warren,2578,881,2271218,0.80,53.75,Dubbo,NSW,Australia,1
-26730: Warrnambool,Warrnambool,35559,937,33318783,0.85,57.16,Warrnambol,VIC,Australia,1
+26730: Warrnambool,Warrnambool,35559,937,33318783,0.85,57.16,Warrnambool,VIC,Australia,1
 18020: Warrumbungle Shire,Warrumbungle Shire,9246,694,6416724,0.63,42.34,"Dubbo,Narrabri",NSW,Australia,"0.75,0.25"
 48340: Wattle Range,Wattle Range,12181,781,9513361,0.71,47.65,Mount Gambier,SA,Australia,1
 18050: Waverley,Waverley,69324,1894,131299656,1.72,115.55,Sydney,NSW,Australia,1
