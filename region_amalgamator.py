@@ -4,7 +4,7 @@ import math
 
 airport_folder ='airport_csvs'
 region_folder = 'region_csvs'
-output_folder = 'output_folder'
+output_folder = 'output_csvs'
 
 def region_amalgamator(airport_filename,region_filename,output_filename):
     airport_filepath = os.path.join(airport_folder,airport_filename)
@@ -19,7 +19,32 @@ def region_amalgamator(airport_filename,region_filename,output_filename):
     airports_df["GDP from Regions"] = 0.0
     regions_df = regions_df.apply(calculate_GDP,axis=1)
     airports_df = amalgamate_regions(airports_df,regions_df,airport_name_indices_dict)
+    airports_df = calculate_GDP_per_head(airports_df)
+    export_df = get_export_values(airports_df)
+    export_df.to_csv(output_filepath,index_label=None)
+
+    """
+    print("sorting by population")
+    airports_df = airports_df.sort_values(by='Population from Regions')
+    for i in range(len(airports_df)):
+        print(airports_df.iloc[i]["Name"],",",airports_df.iloc[i]["State"]," Population = ",round(airports_df.iloc[i]["Population from Regions"])," GDP = ",round(airports_df.iloc[i]["GDP from Regions"]))
+
+    print("sorting by GDP")
+    airports_df = airports_df.sort_values(by='GDP from Regions')
+    for i in range(len(airports_df)):
+        print(airports_df.iloc[i]["Name"],",",airports_df.iloc[i]["State"]," Population = ",round(airports_df.iloc[i]["Population from Regions"])," GDP = ",round(airports_df.iloc[i]["GDP from Regions"]))
+
+    print("sorting by GDP per Head")
+    airports_df = airports_df.sort_values(by='GDP per Head')
+    for i in range(len(airports_df)):
+        print(airports_df.iloc[i]["Name"],",",airports_df.iloc[i]["State"]," Population = ",round(airports_df.iloc[i]["Population from Regions"])," GDP per Head = ",round(airports_df.iloc[i]["GDP per Head"]))
+   """
     
+def get_export_values(df):
+    df["GDP per Head Export"] = round(df["GDP per Head"],0)
+    df["Population Export"] = round((df["Population from Regions"])/1000,1)
+    return df
+
 
 
 def amalgamate_regions(airports_df,regions_df,airport_name_indices_dict):
@@ -65,7 +90,10 @@ def amalgamate_regions(airports_df,regions_df,airport_name_indices_dict):
             
     return airports_df
 
-
+def calculate_GDP_per_head(df):
+    df["GDP per Head"] = df["GDP from Regions"]/df["Population from Regions"]
+    df["GDP per Head"] = df["GDP per Head"].fillna(0)
+    return df
 
 def calculate_GDP(df):
     df["GDP"] = df["Population"]*df["GDP/head"]
