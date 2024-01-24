@@ -9,13 +9,25 @@ def region_amalgamator(airport_filename,region_filename,output_filename):
     airport_filepath = os.path.join(airport_folder,airport_filename)
     region_filepath = os.path.join(region_folder,region_filename)
     output_filepath = os.path.join(output_folder,output_filename)
-    airport_df = pd.read_csv(airport_filepath)
+    airports_df = pd.read_csv(airport_filepath)
     regions_df = pd.read_csv(region_filepath)
-    airport_names,airport_name_indices_dict = get_airport_unique_names(airport_df)
-    airport_df["Population from Regions"] = 0
-    airport_df["GDP from Regions"] = 0
+    airport_names,airport_name_indices_dict = get_airport_unique_names(airports_df)
+    airports_df["Population from Regions"] = 0
+    airports_df["GDP from Regions"] = 0
     regions_df = regions_df.apply(calculate_GDP,axis=1)
-    print(regions_df)
+    airports_df = amalgamate_regions(airports_df,regions_df,airport_name_indices_dict)
+
+
+def amalgamate_regions(airports_df,regions_df,airport_name_indices_dict):
+    num_regions = len(regions_df)
+    for i in range(num_regions): #very inefficient computer timewise, but this will not be our performance bottleneck and will be easier to write and understand
+        airports = regions_df.iloc[i]["Airports"]
+        states = regions_df.iloc[i]["States"]
+        #countries =
+
+    return airports_df
+
+
 
 def calculate_GDP(df):
     df["GDP"] = df["Population"]*df["GDP/head"]
