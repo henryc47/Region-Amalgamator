@@ -15,10 +15,11 @@ def region_amalgamator(airport_filename,region_filename,output_filename):
     regions_df = pd.read_csv(region_filepath)
     regions_df = regions_df.fillna('')
     airport_names,airport_name_indices_dict = get_airport_unique_names(airports_df)
-    airports_df["Population from Regions"] = 0
-    airports_df["GDP from Regions"] = 0
+    airports_df["Population from Regions"] = 0.0
+    airports_df["GDP from Regions"] = 0.0
     regions_df = regions_df.apply(calculate_GDP,axis=1)
     airports_df = amalgamate_regions(airports_df,regions_df,airport_name_indices_dict)
+    
 
 
 def amalgamate_regions(airports_df,regions_df,airport_name_indices_dict):
@@ -28,12 +29,14 @@ def amalgamate_regions(airports_df,regions_df,airport_name_indices_dict):
         states = regions_df.iloc[i]["States"]
         countries = regions_df.iloc[i]["Countries"]
         fractions_raw = regions_df.iloc[i]["Fractions"]
+        population = regions_df.iloc[i]["Population"]
+        gdp = regions_df.iloc[i]["GDP"]
         airports = str(airports).split(',')
         states = str(states).split(',')
         countries = str(countries).split(',')
         fractions_raw = str(fractions_raw).split(',')
         fractions = [float(x) for x in fractions_raw]
-        sums_to_one = math.isclose(sum(fractions),1)
+        sums_to_one = math.isclose(sum(fractions),1) #we must use approximate values as we are dealing with floats
         if not sums_to_one:
             print('fractions for region ',regions_df.iloc[i]["Name"]," = ",fractions," do not sum to 1")
         num_airports = len(airports)
@@ -41,12 +44,21 @@ def amalgamate_regions(airports_df,regions_df,airport_name_indices_dict):
             states = states*num_airports
         if len(countries)==1:
             countries = countries*num_airports
+        if len(fractions)!=num_airports:
+            print("for region ",regions_df.iloc[i]["Name"]," num fractions ",fractions," not equal to num airports = ",num_airports)
+            continue
         for j in range(num_airports):
             if airports[j]=='':
                 continue
             unique_name = (airports[j],states[j],countries[j])
+
             if unique_name in airport_name_indices_dict:
                 airport_index = airport_name_indices_dict[unique_name]
+                fraction = fractions[j]
+                population_from_fraction = population*fraction
+                gdp__from_fraction = gdp*fraction
+                airports_df.at[airport_index,"Population from Regions"] = airports_df.iloc[airport_index]["Population from Regions"] + population_from_fraction
+                airports_df.at[airport_index,"GDP from Regions"] = airports_df.iloc[airport_index]["GDP from Regions"] + gdp__from_fraction
             else:
                 print(unique_name," not found in dictionary of airports")
                 print("region is ",regions_df.iloc[i]["Name"])
