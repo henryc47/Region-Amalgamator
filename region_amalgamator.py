@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+import math
 
 airport_folder ='airport_csvs'
 region_folder = 'region_csvs'
@@ -31,6 +32,10 @@ def amalgamate_regions(airports_df,regions_df,airport_name_indices_dict):
         states = str(states).split(',')
         countries = str(countries).split(',')
         fractions_raw = str(fractions_raw).split(',')
+        fractions = [float(x) for x in fractions_raw]
+        sums_to_one = math.isclose(sum(fractions),1)
+        if not sums_to_one:
+            print('fractions for region ',regions_df.iloc[i]["Name"]," = ",fractions," do not sum to 1")
         num_airports = len(airports)
         if len(states)==1:
             states = states*num_airports
@@ -41,17 +46,11 @@ def amalgamate_regions(airports_df,regions_df,airport_name_indices_dict):
                 continue
             unique_name = (airports[j],states[j],countries[j])
             if unique_name in airport_name_indices_dict:
-                pass
+                airport_index = airport_name_indices_dict[unique_name]
             else:
                 print(unique_name," not found in dictionary of airports")
                 print("region is ",regions_df.iloc[i]["Name"])
             
-
-
-
-
-
-
     return airports_df
 
 
