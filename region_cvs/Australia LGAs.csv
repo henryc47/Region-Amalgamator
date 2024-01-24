@@ -1,0 +1,550 @@
+Name Raw,Name,Population,Weekly Household Equivalised Income,Product,Multiple of Average,GDP/head,Airports,States,Countrys,Fractions
+40070: Adelaide,Adelaide,26141,1129,29513189,1.03,68.88,Adelaide,SA,Australia,1
+40120: Adelaide Hills,Adelaide Hills,41411,1195,49486145,1.09,72.90,Adelaide,SA,Australia,1
+40150: Adelaide Plains,Adelaide Plains,10456,976,10205056,0.89,59.54,Adelaide,SA,Australia,1
+50080: Albany,Albany,40416,879,35525664,0.80,53.63,Albany,WA,Australia,1
+10050: Albury,Albury,56666,947,53662702,0.86,57.77,Albury-Wodonga,NSW,Australia,1
+40220: Alexandrina,Alexandrina,29754,758,22553532,0.69,46.24,Adelaide,SA,Australia,1
+70200: Alice Springs,Alice Springs,28855,1385,39964175,1.26,84.50,Alice Springs,NT,Australia,1
+20110: Alpine,Alpine,13187,887,11696869,0.81,54.11,Albury-Wodonga,NSW,Australia,1
+40250: Anangu Pitjantjatjara Yunkunytjatjara,Anangu Pitjantjatjara Yunkunytjatjara,2598,484,1257432,0.44,29.53,Uluru,NT,Australia,1
+20260: Ararat,Ararat,11754,832,9779328,0.76,50.76,"Ballarat,Horsham,Warrnambool",VIC,Australia,"0.4,0.4,0.2"
+50210: Armadale,Armadale,100768,1040,104798720,0.95,63.45,Perth,WA,Australia,1
+10180: Armidale Regional,Armidale Regional,29360,924,27128640,0.84,56.37,Armidale,NSW,Australia,1
+50250: Ashburton,Ashburton,7834,1858,14555572,1.69,113.35,"Newman,Karratha,Exmouth",WA,Australia,"0.6,0.2,0.2"
+50280: Augusta Margaret River,Augusta Margaret River,17901,968,17328168,0.88,59.06,Bunbury,WA,Australia,1
+30250: Aurukun,Aurukun,1124,468,526032,0.43,28.55,Weipa,QLD,Australia,1
+20570: Ballarat,Ballarat,115951,935,108414185,0.85,57.04,Ballarat,VIC,Australia,1
+10250: Ballina,Ballina,46850,926,43383100,0.84,56.49,Ballina,NSW,Australia,1
+30300: Balonne,Balonne,4353,911,3965583,0.83,55.58,Roma,QLD,Australia,1
+10300: Balranald,Balranald,2210,892,1971320,0.81,54.42,Mildura,VIC,Australia,1
+30370: Banana,Banana,14779,1080,15961320,0.98,65.89,"Rockhampton,Roma",QLD,Australia,"0.6,0.4"
+20660: Banyule,Banyule,127348,1239,157784172,1.13,75.59,Melbourne,VIC,Australia,1
+30410: Barcaldine,Barcaldine,2865,973,2787645,0.89,59.36,Longreach,QLD,Australia,1
+30450: Barcoo,Barcoo,315,1258,396270,1.15,76.75,Longreach,QLD,Australia,1
+70420: Barkly,Barkly,7214,814,5872196,0.74,49.66,Tennant Creek,NT,Australia,1
+40310: Barossa,Barossa,25869,950,24575550,0.87,57.96,Adelaide,SA,Australia,1
+40430: Barunga West,Barunga West,2673,665,1777545,0.61,40.57,"Adelaide,Port Augusta",SA,Australia,"0.5,0.5"
+20740: Bass Coast,Bass Coast,41798,776,32435248,0.71,47.34,"Melbourne,Morwell",VIC,Australia,"0.5,0.5"
+50350: Bassendean,Bassendean,16600,1114,18492400,1.01,67.96,Perth,WA,Australia,1
+10470: Bathurst Regional,Bathurst Regional,44112,1009,44509008,0.92,61.56,Bathurst,NSW,Australia,1
+20830: Baw Baw,Baw Baw,59248,932,55219136,0.85,56.86,Morwell,VIC,Australia,1
+10500: Bayside (NSW),Bayside (NSW),177945,1187,211220715,1.08,72.42,Sydney,NSW,Australia,1
+20910: Bayside (Vic.),Bayside (Vic.),102177,1597,163176669,1.45,97.43,Melbourne,VIC,Australia,1
+50420: Bayswater,Bayswater,72165,1130,81546450,1.03,68.94,Perth,WA,Australia,1
+10550: Bega Valley,Bega Valley,35988,794,28574472,0.72,48.44,Bega,NSW,Australia,1
+10600: Bellingen,Bellingen,13262,774,10264788,0.70,47.22,Coffs Harbour,NSW,Australia,1
+50490: Belmont,Belmont,44303,1113,49309239,1.01,67.90,Perth,WA,Australia,1
+70540: Belyuen,Belyuen,165,372,61380,0.34,22.69,Darwin,NT,Australia,1
+21010: Benalla,Benalla,14457,796,11507772,0.72,48.56,Shepparton,VIC,Australia,1
+40520: Berri Barmera,Berri Barmera,10713,773,8281149,0.70,47.16,Adelaide,SA,Australia,1
+10650: Berrigan,Berrigan,8653,755,6533015,0.69,46.06,Shepparton,VIC,Australia,1
+50560: Beverley,Beverley,1738,722,1254836,0.66,44.05,Perth,WA,Australia,1
+30760: Blackall Tambo,Blackall Tambo,1934,817,1580078,0.74,49.84,"Longreach,Charleville",QLD,Australia,"0.5,0.5"
+10750: Blacktown,Blacktown,410897,1112,456917464,1.01,67.84,Sydney,NSW,Australia,1
+10800: Bland,Bland,5494,876,4812744,0.80,53.44,Griffith,NSW,Australia,1
+10850: Blayney,Blayney,7591,964,7317724,0.88,58.81,Bathurst,NSW,Australia,1
+10900: Blue Mountains,Blue Mountains,77913,1086,84613518,0.99,66.25,Sydney,NSW,Australia,1
+50630: Boddington,Boddington,1757,1065,1871205,0.97,64.97,Perth,NSW,Australia,1
+10950: Bogan,Bogan,2454,941,2309214,0.86,57.41,Cobar,NSW,Australia,1
+21110: Boroondara,Boroondara,169500,1570,266115000,1.43,95.78,Melbourne,VIC,Australia,1
+30900: Boulia,Boulia,474,1095,519030,1.00,66.80,Mount Isa,QLD,Australia,1
+11150: Bourke,Bourke,2348,1034,2427832,0.94,63.08,Cobar,NSW,Australia,1
+50770: Boyup Brook,Boyup Brook,1938,831,1610478,0.76,50.70,Perth,WA,Australia,1
+60210: Break O'Day,Break O'Day,7009,587,4114283,0.53,35.81,Launceston,TAS,Australia,1
+11200: Brewarrina,Brewarrina,1431,635,908685,0.58,38.74,Cobar,NSW,Australia,1
+50840: Bridgetown-Greenbushes,Bridgetown-Greenbushes,5526,805,4448430,0.73,49.11,Bunbury,WA,Australia,1
+60410: Brighton,Brighton,19691,838,16501058,0.76,51.12,Hobart,TAS,Australia,1
+21180: Brimbank,Brimbank,193256,861,166393416,0.78,52.53,Melbourne,VIC,Australia,1
+31000: Brisbane,Brisbane,1283002,1284,1647374568,1.17,78.33,Brisbane,QLD,Australia,1
+11250: Broken Hill,Broken Hill,17569,798,14020062,0.73,48.68,Broken Hill,NSW,Australia,1
+50910: Brookton,Brookton,955,795,759225,0.72,48.50,Perth,WA,Australia,1
+50980: Broome,Broome,18353,1322,24262666,1.20,80.65,Broome,WA,Australia,1
+51080: Broomehill-Tambellup,Broomehill-Tambellup,1087,932,1013084,0.85,56.86,Albany,WA,Australia,1
+51120: Bruce Rock,Bruce Rock,1019,873,889587,0.79,53.26,Perth,WA,Australia,1
+31750: Bulloo,Bulloo,343,1156,396508,1.05,70.53,Charleville,QLD,Australia,1
+21270: Buloke,Buloke,6118,735,4496730,0.67,44.84,"Bendigo,Horsham,Mildura",VIC,Australia,"0.4,0.4,0.2"
+51190: Bunbury,Bunbury,34393,906,31160058,0.82,55.27,Bunbury,WA,Australia,1
+31820: Bundaberg,Bundaberg,102076,742,75740392,0.68,45.27,Bundaberg,QLD,Australia,1
+31900: Burdekin,Burdekin,16869,891,15030279,0.81,54.36,Townsville,QLD,Australia,1
+31950: Burke,Burke,432,991,428112,0.90,60.46,Normanton,QLD,Australia,1
+60610: Burnie,Burnie,20472,802,16418544,0.73,48.93,Launceston,TAS,Australia,1
+40700: Burnside,Burnside,46694,1296,60515424,1.18,79.07,Adelaide,SA,Australia,1
+11300: Burwood,Burwood,40832,1078,44016896,0.98,65.77,Sydney,NSW,Australia,1
+51260: Busselton,Busselton,42911,949,40722539,0.86,57.90,Bunbury,WA,Australia,1
+11350: Byron,Byron,36510,996,36363960,0.91,60.76,Ballina,NSW,Australia,1
+11400: Cabonne,Cabonne,13844,967,13387148,0.88,58.99,"Bathurst,Parkes",NSW,Australia,"0.5,0.5"
+32080: Cairns,Cairns,171970,1012,174033640,0.92,61.74,Cairns,QLD,Australia,1
+51310: Cambridge,Cambridge,30119,1763,53099797,1.61,107.56,Perth,WA,Australia,1
+11450: Camden,Camden,127806,1258,160779948,1.15,76.75,Sydney,NSW,Australia,1
+21370: Campaspe,Campaspe,38541,823,31719243,0.75,50.21,"Shepparton,Bendigo",VIC,Australia,"0.5,0.5"
+11500: Campbelltown (NSW),Campbelltown (NSW),180365,962,173511130,0.88,58.69,Sydney,NSW,Australia,1
+40910: Campbelltown (SA),Campbelltown (SA),56024,988,55351712,0.90,60.28,Adelaide,SA,Australia,1
+11520: Canada Bay,Canada Bay,89210,1518,135420780,1.38,92.61,Sydney,NSW,Australia,1
+51330: Canning,Canning,99593,1068,106365324,0.97,65.16,Perth,WA,Australia,1
+11570: Canterbury-Bankstown,Canterbury-Bankstown,372066,877,326301882,0.80,53.50,Sydney,NSW,Australia,1
+51400: Capel,Capel,19002,1125,21377250,1.02,68.63,Bunbury,WA,Australia,1
+21450: Cardinia,Cardinia,123104,1060,130490240,0.97,64.67,Melbourne,VIC,Australia,1
+51470: Carnamah,Carnamah,572,833,476476,0.76,50.82,Geraldton,WA,Australia,1
+51540: Carnarvon,Carnarvon,5518,957,5280726,0.87,58.38,Carnavon,WA,Australia,1
+32250: Carpentaria,Carpentaria,2171,937,2034227,0.85,57.16,Normanton,QLD,Australia,1
+11600: Carrathool,Carrathool,2829,981,2775249,0.89,59.85,Griffith,NSW,Australia,1
+21610: Casey,Casey,378831,1030,390195930,0.94,62.84,Melbourne,VIC,Australia,1
+32260: Cassowary Coast,Cassowary Coast,29605,783,23180715,0.71,47.77,"Cairns,Townsville",QLD,Australia,"0.6,0.4"
+41010: Ceduna,Ceduna,3651,928,3388128,0.85,56.62,Ceduna,SA,Australia,1
+11650: Central Coast (NSW),Central Coast (NSW),349173,947,330666831,0.86,57.77,"Sydney,Newcastle",NSW,Australia,"0.7,0.3"
+60810: Central Coast (Tas.),Central Coast (Tas.),23345,780,18209100,0.71,47.59,Launceston,TAS,Australia,1
+11700: Central Darling,Central Darling,1749,651,1138599,0.59,39.72,Broken Hill,NSW,Australia,1
+70620: Central Desert,Central Desert,4107,435,1786545,0.40,26.54,Alice Springs,NT,Australia,1
+21670: Central Goldfields,Central Goldfields,13516,615,8312340,0.56,37.52,"Bendigo,Ballarat",VIC,Australia,"0.5,0.5"
+32270: Central Highlands (Qld),Central Highlands (Qld),28530,1276,36404280,1.16,77.85,Emerald,QLD,Australia,1
+61010: Central Highlands (Tas.),Central Highlands (Tas.),2586,683,1766238,0.62,41.67,Hobart,TAS,Australia,1
+11720: Cessnock,Cessnock,65878,917,60410126,0.83,55.94,Newcastle,NSW,Australia,1
+51610: Chapman Valley,Chapman Valley,1636,1188,1943568,1.08,72.48,Geraldton,WA,Australia,1
+41060: Charles Sturt,Charles Sturt,124864,1021,127486144,0.93,62.29,Adelaide,NSW,Australia,1
+32310: Charters Towers,Charters Towers,11981,856,10255736,0.78,52.22,"Townsville,Hughenden",QLD,Australia,"0.8,0.2"
+32330: Cherbourg,Cherbourg,1228,452,555056,0.41,27.58,Sunshine Coast,QLD,Australia,1
+51680: Chittering,Chittering,6296,1157,7284472,1.05,70.59,Perth,WA,Australia,1
+51710: Christmas Island,Christmas Island,1787,1407,2514309,1.28,85.84,Christmas Island,,Australia,1
+61210: Circular Head,Circular Head,8367,832,6961344,0.76,50.76,Launceston,TAS,Australia,1
+41140: Clare and Gilbert Valleys,Clare and Gilbert Valleys,9383,865,8116295,0.79,52.77,Adelaide,SA,Australia,1
+51750: Claremont,Claremont,11718,1583,18549594,1.44,96.58,Perth,WA,Australia,1
+61410: Clarence,Clarence,63086,1018,64221548,0.93,62.11,Hobart,TAS,Australia,1
+11730: Clarence Valley,Clarence Valley,54662,729,39848598,0.66,44.47,"Coffs Harbour,Ballina",NSW,Australia,"0.8,0.2"
+41190: Cleve,Cleve,1765,790,1394350,0.72,48.20,Port Lincoln,SA,Australia,1
+32450: Cloncurry,Cloncurry,3789,1230,4660470,1.12,75.04,Mount Isa,QLD,Australia,1
+11750: Cobar,Cobar,4046,1155,4673130,1.05,70.46,Cobar,NSW,Australia,1
+51820: Cockburn,Cockburn,125123,1199,150022477,1.09,73.15,Perth,NSW,Australia,1
+51860: Cocos Islands,Cocos Islands,614,1066,654524,0.97,65.03,Cocos (Keeling) Island,NSW,Australia,1
+11800: Coffs Harbour,Coffs Harbour,79725,864,68882400,0.79,52.71,Coffs Harbour,NSW,Australia,1
+21750: Colac Otway,Colac Otway,22188,855,18970740,0.78,52.16,Warrnambool,NSW,Australia,1
+51890: Collie,Collie,9150,813,7438950,0.74,49.60,Bunbury,NSW,Australia,1
+41330: Coober Pedy,Coober Pedy,1574,571,898754,0.52,34.84,Coober Pedy,NSW,Australia,1
+32500: Cook,Cook,4673,774,3616902,0.70,47.22,"Cairns,Weipa",QLD,Australia,"0.5,0.5"
+12000: Coolamon,Coolamon,4465,819,3656835,0.75,49.97,Wagga Wagga,NSW,Australia,1
+51960: Coolgardie,Coolgardie,3635,1205,4380175,1.10,73.51,Kalgoorie,WA,Australia,1
+70700: Coomalie,Coomalie,1396,727,1014892,0.66,44.35,Darwin,NT,Australia,1
+12150: Coonamble,Coonamble,3825,785,3002625,0.71,47.89,Dubbo,NSW,Australia,1
+47800: Coorong,Coorong,5576,721,4020296,0.66,43.99,Adelaide,SA,Australia,1
+52030: Coorow,Coorow,1091,700,763700,0.64,42.71,Geraldton,WA,Australia,1
+12160: Cootamundra-Gundagai Regional,Cootamundra-Gundagai Regional,11404,754,8598616,0.69,46.00,Wagga Wagga,NSW,Australia,1
+41560: Copper Coast,Copper Coast,15648,676,10578048,0.62,41.24,Adelaide,SA,Australia,1
+21830: Corangamite,Corangamite,15993,834,13338162,0.76,50.88,Warrnambool,NSW,Australia,1
+52100: Corrigin,Corrigin,1022,927,947394,0.84,56.55,Perth,WA,Australia,1
+52170: Cottesloe,Cottesloe,8308,2050,17031400,1.87,125.07,Perth,WA,Australia,1
+12350: Cowra,Cowra,12705,735,9338175,0.67,44.84,"Parkes,Bathurst",NSW,Australia,"0.5,0.5"
+52240: Cranbrook,Cranbrook,1141,900,1026900,0.82,54.91,Albany,WA,Australia,1
+32600: Croydon,Croydon,268,888,237984,0.81,54.18,Normanton,QLD,Australia,1
+52310: Cuballing,Cuballing,929,803,745987,0.73,48.99,Perth,WA,Australia,1
+52380: Cue,Cue,230,545,125350,0.50,33.25,Meekatharra,WA,Australia,1
+12380: Cumberland,Cumberland,237420,920,218426400,0.84,56.13,Sydney,NSW,Australia,1
+52450: Cunderdin,Cunderdin,1344,987,1326528,0.90,60.21,Perth,WA,Australia,1
+52520: Dalwallinu,Dalwallinu,1428,1180,1685040,1.07,71.99,Perth,WA,Australia,1
+52590: Dandaragan,Dandaragan,3573,881,3147813,0.80,53.75,Perth,WA,Australia,1
+52660: Dardanup,Dardanup,15370,1047,16092390,0.95,63.88,Bunbury,WA,Australia,1
+21890: Darebin,Darebin,150483,1190,179074770,1.08,72.60,Melbourne,VIC,Australia,1
+71000: Darwin,Darwin,84846,1396,118445016,1.27,85.17,Darwin,NT,Australia,1
+71150: Darwin Waterfront Precinct,Darwin Waterfront Precinct,288,1993,573984,1.81,121.59,Darwin,NT,Australia,1
+52730: Denmark,Denmark,6537,769,5026953,0.70,46.92,Albany,WA,Australia,1
+52800: Derby-West Kimberley,Derby-West Kimberley,8405,770,6471850,0.70,46.98,"Broome,Fitzroy Crossing",WA,Australia,"0.5,0.5"
+61510: Derwent Valley,Derwent Valley,11236,768,8629248,0.70,46.85,Hobart,TAS,Australia,1
+61610: Devonport,Devonport,26937,771,20768427,0.70,47.04,Launceston,TAS,Australia,1
+32750: Diamantina,Diamantina,270,1224,330480,1.11,74.67,Mount Isa,QLD,Australia,1
+52870: Donnybrook-Balingup,Donnybrook-Balingup,6398,860,5502280,0.78,52.47,Bunbury,WA,Australia,1
+32770: Doomadgee,Doomadgee,1442,473,682066,0.43,28.86,Normanton,QLD,Australia,1
+61810: Dorset,Dorset,7022,691,4852202,0.63,42.16,Launceston,TAS,Australia,1
+32810: Douglas,Douglas,12660,865,10950900,0.79,52.77,Cairns,QLD,Australia,1
+52940: Dowerin,Dowerin,733,864,633312,0.79,52.71,Perth,WA,Australia,1
+12390: Dubbo Regional,Dubbo Regional,55894,998,55782212,0.91,60.89,Dubbo,NSW,Australia,1
+53010: Dumbleyung,Dumbleyung,693,888,615384,0.81,54.18,Albany,WA,Australia,1
+53080: Dundas,Dundas,695,646,448970,0.59,39.41,Esperance,WA,Australia,1
+12700: Dungog,Dungog,9722,934,9080348,0.85,56.98,Newcastle,NSW,Australia,1
+71300: East Arnhem,East Arnhem,10111,465,4701615,0.42,28.37,Gove,NT,Australia,1
+53150: East Fremantle,East Fremantle,8064,1471,11862144,1.34,89.74,Perth,WA,Australia,1
+22110: East Gippsland,East Gippsland,48922,742,36300124,0.68,45.27,Bairnsdale,VIC,Australia,1
+53220: East Pilbara,East Pilbara,10304,1717,17691968,1.56,104.75,"Newman,Port Hedland",WA,Australia,"0.8,0.2"
+12730: Edward River,Edward River,8457,840,7103880,0.76,51.25,Griffith,NSW,Australia,1
+41750: Elliston,Elliston,1032,769,793608,0.70,46.92,Port Lincoln,SA,Australia,1
+53290: Esperance,Esperance,14496,1002,14524992,0.91,61.13,Esperance,WA,Australia,1
+33100: Etheridge,Etheridge,720,825,594000,0.75,50.33,"Normanton,Cairns,Hughenden",QLD,Australia,"0.4,0.3,0.3"
+12750: Eurobodalla,Eurobodalla,40755,780,31788900,0.71,47.59,Bega,NSW,Australia,1
+53360: Exmouth,Exmouth,3312,1212,4014144,1.10,73.94,Exmouth,WA,Australia,1
+12850: Fairfield,Fairfield,206807,732,151382724,0.67,44.66,Sydney,NSW,Australia,1
+12870: Federation,Federation,12854,792,10180368,0.72,48.32,"Albury-Wodonga,Griffith",NSW,Australia,"0.6,0.4"
+33200: Flinders (Qld),Flinders (Qld),1535,935,1435225,0.85,57.04,Hughenden,QLD,Australia,1
+62010: Flinders (Tas.),Flinders (Tas.),931,780,726180,0.71,47.59,Flinders Island,TAS,Australia,1
+41830: Flinders Ranges,Flinders Ranges,1683,736,1238688,0.67,44.90,Port Augusta,SA,Australia,1
+12900: Forbes,Forbes,9339,843,7872777,0.77,51.43,Parkes,NSW,Australia,1
+41960: Franklin Harbour,Franklin Harbour,1327,791,1049657,0.72,48.26,"Port Augusta,Port Lincoln",SA,Australia,"0.5,0.5"
+22170: Frankston,Frankston,141078,1034,145874652,0.94,63.08,Melbourne,VIC,Australia,1
+33220: Fraser Coast,Fraser Coast,115079,683,78598957,0.62,41.67,Bundaberg,QLD,Australia,1
+53430: Fremantle,Fremantle,33749,1267,42759983,1.15,77.30,Perth,WA,Australia,1
+22250: Gannawarra,Gannawarra,10531,723,7613913,0.66,44.11,Bendigo,VIC,Australia,1
+42030: Gawler,Gawler,26121,873,22803633,0.79,53.26,Adelaide,SA,Australia,1
+62210: George Town,George Town,7267,638,4636346,0.58,38.92,Launceston,TAS,Australia,1
+12930: Georges River,Georges River,153232,1131,173305392,1.03,69.00,Sydney,NSW,Australia,1
+12950: Gilgandra,Gilgandra,4299,749,3219951,0.68,45.69,Dubbo,NSW,Australia,1
+53570: Gingin,Gingin,5890,858,5053620,0.78,52.34,Perth,WA,Australia,1
+33360: Gladstone,Gladstone,65302,1016,66346832,0.93,61.98,Rockhampton,QLD,Australia,1
+62410: Glamorgan-Spring Bay,Glamorgan-Spring Bay,5187,703,3646461,0.64,42.89,Hobart,TAS,Australia,1
+22310: Glen Eira,Glen Eira,151694,1379,209186026,1.26,84.13,Melbourne,VIC,Australia,1
+13010: Glen Innes Severn,Glen Innes Severn,8945,637,5697965,0.58,38.86,Armidale,NSW,Australia,1
+22410: Glenelg,Glenelg,20041,805,16133005,0.73,49.11,Mount Gambier,SA,Australia,1
+62610: Glenorchy,Glenorchy,51009,853,43510677,0.78,52.04,Hobart,TAS,Australia,1
+53640: Gnowangerup,Gnowangerup,1262,1009,1273358,0.92,61.56,Albany,WA,Australia,1
+33430: Gold Coast,Gold Coast,647078,1034,669078652,0.94,63.08,Gold Coast,QLD,Australia,1
+22490: Golden Plains,Golden Plains,25312,1049,26552288,0.96,64.00,Ballarat,VIC,Australia,1
+53710: Goomalling,Goomalling,984,817,803928,0.74,49.84,Perth,WA,Australia,1
+33610: Goondiwindi,Goondiwindi,10410,893,9296130,0.81,54.48,"Toowoomba,Roma",QLD,Australia,"0.8,0.2"
+53780: Gosnells,Gosnells,132915,967,128528805,0.88,58.99,Perth,WA,Australia,1
+13310: Goulburn Mulwaree,Goulburn Mulwaree,32428,950,30806600,0.87,57.96,Goulburn,NSW,Australia,1
+42110: Goyder,Goyder,4144,626,2594144,0.57,38.19,"Adelaide,Port Augusta",SA,Australia,"0.5,0.5"
+42250: Grant,Grant,8927,993,8864511,0.90,60.58,Mount Gambier,SA,Australia,1
+22620: Greater Bendigo,Greater Bendigo,122647,931,114184357,0.85,56.80,Bendigo,VIC,Australia,1
+22670: Greater Dandenong,Greater Dandenong,159151,834,132731934,0.76,50.88,Melbourne,VIC,Australia,1
+22750: Greater Geelong,Greater Geelong,276446,1009,278934014,0.92,61.56,Melbourne,VIC,Australia,1
+53800: Greater Geraldton,Greater Geraldton,41495,989,41038555,0.90,60.34,Geraldton,WA,Australia,1
+13340: Greater Hume Shire,Greater Hume Shire,11267,890,10027630,0.81,54.30,"Albury-Wodonga,Griffith",NSW,Australia,1
+22830: Greater Shepparton,Greater Shepparton,68925,885,60998625,0.81,53.99,Shepparton,VIC,Australia,1
+13450: Griffith,Griffith,27014,1022,27608308,0.93,62.35,Griffith,NSW,Australia,1
+13550: Gunnedah,Gunnedah,13144,980,12881120,0.89,59.79,"Tamworth,Narrabri",NSW,Australia,"0.5,0.5"
+13660: Gwydir,Gwydir,4924,668,3289232,0.61,40.75,Narrabri,NSW,Australia,1
+33620: Gympie,Gympie,55112,705,38853960,0.64,43.01,Sunshine Coast,QLD,Australia,1
+53920: Halls Creek,Halls Creek,4110,519,2133090,0.47,31.66,Halls Creek,WA,Australia,1
+53990: Harvey,Harvey,30147,1043,31443321,0.95,63.63,Bunbury,WA,Australia,1
+13800: Hawkesbury,Hawkesbury,67862,1137,77159094,1.04,69.37,Sydney,NSW,Australia,1
+13850: Hay,Hay,2834,804,2278536,0.73,49.05,Griffith,NSW,Australia,1
+22910: Hepburn,Hepburn,16567,847,14032249,0.77,51.67,Ballarat,VIC,Australia,1
+13910: Hilltops,Hilltops,19239,774,14890986,0.70,47.22,"Wagga Wagga,Canberra,Parkes,Bathurst","NSW,ACT,NSW,NSW",Australia,"0.3,0.3,0.2,0.2"
+33800: Hinchinbrook,Hinchinbrook,11089,781,8660509,0.71,47.65,Townsville,QLD,Australia,1
+22980: Hindmarsh,Hindmarsh,5599,764,4277636,0.70,46.61,Horsham,VIC,Australia,1
+62810: Hobart,Hobart,55981,1194,66841314,1.09,72.84,Hobart,TAS,Australia,1
+23110: Hobsons Bay,Hobsons Bay,91803,1220,111999660,1.11,74.43,Melbourne,VIC,Australia,1
+42600: Holdfast Bay,Holdfast Bay,38052,1130,42998760,1.03,68.94,Adelaide,SA,Australia,1
+33830: Hope Vale,Hope Vale,1004,457,458828,0.42,27.88,Cairns,QLD,Australia,1
+14000: Hornsby,Hornsby,151747,1391,211080077,1.27,84.86,Sydney,NSW,Australia,1
+23190: Horsham,Horsham,20337,910,18506670,0.83,55.52,Horsham,VIC,Australia,1
+23270: Hume,Hume,252987,930,235277910,0.85,56.74,Melbourne,VIC,Australia,1
+14100: Hunters Hill,Hunters Hill,13924,1797,25021428,1.64,109.63,Sydney,NSW,Australia,1
+63010: Huon Valley,Huon Valley,19214,775,14890850,0.71,47.28,Hobart,TAS,Australia,1
+23350: Indigo,Indigo,17418,970,16895460,0.88,59.18,Albury-Wodonga,NSW,Australia,1
+14170: Inner West,Inner West,183105,1610,294799050,1.47,98.22,Sydney,NSW,Australia,1
+14220: Inverell,Inverell,17966,744,13366704,0.68,45.39,Armidale,NSW,Australia,1
+33960: Ipswich,Ipswich,242653,987,239498511,0.90,60.21,Brisbane,QLD,Australia,1
+54060: Irwin,Irwin,3794,801,3038994,0.73,48.87,Geraldton,WA,Australia,1
+33980: Isaac,Isaac,22746,1568,35665728,1.43,95.66,"Mackay,Emerald",QLD,Australia,"0.5,0.5"
+54130: Jerramungup,Jerramungup,1196,929,1111084,0.85,56.68,Albany,WA,Australia,1
+54170: Joondalup,Joondalup,165509,1262,208872358,1.15,76.99,Perth,WA,Australia,1
+14300: Junee,Junee,6465,896,5792640,0.82,54.66,Wagga Wagga,NSW,Australia,1
+54200: Kalamunda,Kalamunda,61256,1110,67994160,1.01,67.72,Perth,WA,Australia,1
+54280: Kalgoorlie-Boulder,Kalgoorlie-Boulder,30726,1528,46949328,1.39,93.22,Kalgoorie,WA,Australia,1
+42750: Kangaroo Island,Kangaroo Island,5088,782,3978816,0.71,47.71,Kingscote,WA,Australia,1
+43080: Karoonda East Murray,Karoonda East Murray,1027,593,609011,0.54,36.18,Adelaide,SA,Australia,1
+54310: Karratha,Karratha,23787,1892,45005004,1.72,115.43,Karratha,WA,Australia,1
+54340: Katanning,Katanning,4233,861,3644613,0.78,52.53,Albany,WA,Australia,1
+72200: Katherine,Katherine,10836,1321,14314356,1.20,80.59,Katherine,NT,Australia,1
+54410: Kellerberrin,Kellerberrin,1180,732,863760,0.67,44.66,Perth,WA,Australia,1
+14350: Kempsey,Kempsey,31180,699,21794820,0.64,42.64,Port Macquarie,NSW,Australia,1
+54480: Kent,Kent,510,1143,582930,1.04,69.73,Albany,WA,Australia,1
+63210: Kentish,Kentish,6805,760,5171800,0.69,46.37,Launceston,TAS,Australia,1
+14400: Kiama,Kiama,22964,1116,25627824,1.02,68.08,Wollongong,NSW,Australia,1
+43220: Kimba,Kimba,1059,835,884265,0.76,50.94,Port Augusta,SA,Australia,1
+63410: King Island,King Island,1675,940,1574500,0.86,57.35,King Island,TAS,Australia,1
+63610: Kingborough,Kingborough,40933,1029,42120057,0.94,62.78,Hobart,TAS,Australia,1
+43360: Kingston (SA),Kingston (SA),2377,814,1934878,0.74,49.66,Mount Gambier,SA,Australia,1
+23430: Kingston (Vic.),Kingston (Vic.),160005,1176,188165880,1.07,71.75,Melbourne,VIC,Australia,1
+23670: Knox,Knox,159465,1093,174295245,1.00,66.68,Melbourne,VIC,Australia,1
+54550: Kojonup,Kojonup,1974,990,1954260,0.90,60.40,Albany,WA,Australia,1
+54620: Kondinin,Kondinin,866,948,820968,0.86,57.84,Perth,WA,Australia,1
+54690: Koorda,Koorda,374,881,329494,0.80,53.75,Perth,WA,Australia,1
+34420: Kowanyama,Kowanyama,1137,477,542349,0.43,29.10,Weipa,QLD,Australia,1
+14500: Ku-ring-gai,Ku-ring-gai,124172,1722,213824184,1.57,105.06,Sydney,NSW,Australia,1
+54760: Kulin,Kulin,783,1184,927072,1.08,72.23,Perth,WA,Australia,1
+54830: Kwinana,Kwinana,49500,1038,51381000,0.95,63.33,Perth,WA,Australia,1
+14550: Kyogle,Kyogle,9453,647,6116091,0.59,39.47,Ballina,NSW,Australia,1
+14600: Lachlan,Lachlan,6139,784,4812976,0.71,47.83,"Parkes,Griffith",NSW,Australia,"0.7,0.3"
+54900: Lake Grace,Lake Grace,1288,1113,1433544,1.01,67.90,Albany,WA,Australia,1
+14650: Lake Macquarie,Lake Macquarie,216603,996,215736588,0.91,60.76,Newcastle,NSW,Australia,1
+14700: Lane Cove,Lane Cove,40076,1866,74781816,1.70,113.84,Sydney,NSW,Australia,1
+63810: Latrobe (Tas.),Latrobe (Tas.),12922,830,10725260,0.76,50.64,Launceston,NSW,Australia,1
+23810: Latrobe (Vic.),Latrobe (Vic.),77668,833,64697444,0.76,50.82,Morwell,VIC,Australia,1
+64010: Launceston,Launceston,71878,867,62318226,0.79,52.89,Launceston,NSW,Australia,1
+54970: Laverton,Laverton,1434,547,784398,0.50,33.37,Kalgoorie,WA,Australia,1
+14750: Leeton,Leeton,11454,904,10354416,0.82,55.15,Griffith,NSW,Australia,1
+55040: Leonora,Leonora,1721,1340,2306140,1.22,81.75,Kalgoorie,WA,Australia,1
+43650: Light,Light,16321,1014,16549494,0.92,61.86,Adelaide,SA,Australia,1
+14850: Lismore,Lismore,44276,854,37811704,0.78,52.10,Ballina,NSW,Australia,1
+72300: Litchfield,Litchfield,23087,1379,31836973,1.26,84.13,Darwin,NT,Australia,1
+14870: Lithgow,Lithgow,20813,791,16463083,0.72,48.26,Bathurst,NSW,Australia,1
+14900: Liverpool,Liverpool,239755,964,231123820,0.88,58.81,Sydney,NSW,Australia,1
+14920: Liverpool Plains,Liverpool Plains,7660,760,5821600,0.69,46.37,Tamworth,NSW,Australia,1
+34530: Livingstone,Livingstone,40905,997,40782285,0.91,60.82,Rockhampton,QLD,Australia,1
+14950: Lockhart,Lockhart,3370,804,2709480,0.73,49.05,Wagga Wagga,NSW,Australia,1
+34570: Lockhart River,Lockhart River,656,550,360800,0.50,33.55,Weipa,QLD,Australia,1
+34580: Lockyer Valley,Lockyer Valley,42625,867,36955875,0.79,52.89,Toowoomba,QLD,Australia,1
+23940: Loddon,Loddon,7748,694,5377112,0.63,42.34,Bendigo,VIC,Australia,1
+34590: Logan,Logan,363057,940,341273580,0.86,57.35,Brisbane,QLD,Australia,1
+34710: Longreach,Longreach,3721,1076,4003796,0.98,65.64,Longreach,QLD,Australia,1
+43710: Lower Eyre Peninsula,Lower Eyre Peninsula,6099,969,5909931,0.88,59.12,Port Lincoln,SA,Australia,1
+43790: Loxton Waikerie,Loxton Waikerie,11927,781,9314987,0.71,47.65,Adelaide,SA,Australia,1
+72330: MacDonnell,MacDonnell,6629,459,3042711,0.42,28.00,"Alice Springs,Uluru",NT,Australia,"0.6,0.4"
+24130: Macedon Ranges,Macedon Ranges,52179,1190,62093010,1.08,72.60,"Melbourne,Bendigo",VIC,Australia,"0.6,0.4"
+34770: Mackay,Mackay,124963,1124,140458412,1.02,68.57,Mackay,QLD,Australia,1
+15050: Maitland,Maitland,93616,1042,97547872,0.95,63.57,Newcastle,NSW,Australia,1
+55110: Mandurah,Mandurah,95568,834,79703712,0.76,50.88,Perth,WA,Australia,1
+55180: Manjimup,Manjimup,9410,831,7819710,0.76,50.70,Bunbury,WA,Australia,1
+24210: Manningham,Manningham,126491,1121,141796411,1.02,68.39,Melbourne,VIC,Australia,1
+24250: Mansfield,Mansfield,10335,878,9074130,0.80,53.56,"Morwell,Shepparton",VIC,Australia,"0.5,0.5"
+34830: Mapoon,Mapoon,454,477,216558,0.43,29.10,Weipa,QLD,Australia,1
+44000: Maralinga Tjarutja,Maralinga Tjarutja,102,612,62424,0.56,37.34,Ceduna,SA,Australia,1
+34860: Maranoa,Maranoa,13100,1020,13362000,0.93,62.23,Roma,QLD,Australia,1
+34880: Mareeba,Mareeba,23367,805,18810435,0.73,49.11,Cairns,QLD,Australia,1
+24330: Maribyrnong,Maribyrnong,87526,1297,113521222,1.18,79.13,Melbourne,VIC,Australia,1
+44060: Marion,Marion,96659,997,96369023,0.91,60.82,Adelaide,SA,Australia,1
+24410: Maroondah,Maroondah,115689,1136,131422704,1.03,69.30,Melbourne,VIC,Australia,1
+34800: McKinlay,McKinlay,846,1166,986436,1.06,71.14,Mount Isa,QLD,Australia,1
+64210: Meander Valley,Meander Valley,21356,828,17682768,0.75,50.51,Launceston,TAS,Australia,1
+55250: Meekatharra,Meekatharra,1293,742,959406,0.68,45.27,Meekatharra,WA,Australia,1
+24600: Melbourne,Melbourne,159993,1267,202711131,1.15,77.30,Melbourne,VIC,Australia,1
+24650: Melton,Melton,193155,1025,197983875,0.93,62.53,Melbourne,VIC,Australia,1
+55320: Melville,Melville,107329,1285,137917765,1.17,78.40,Perth,WA,Australia,1
+55390: Menzies,Menzies,571,725,413975,0.66,44.23,Kalgoorie,WA,Australia,1
+55460: Merredin,Merredin,3232,934,3018688,0.85,56.98,Perth,WA,Australia,1
+44210: Mid Murray,Mid Murray,9416,626,5894416,0.57,38.19,Adelaide,SA,Australia,1
+15240: Mid-Coast,Mid-Coast,97237,704,68454848,0.64,42.95,"Port Macquarie,Newcastle",NSW,Australia,"0.5,0.5"
+15270: Mid-Western Regional,Mid-Western Regional,25795,937,24169915,0.85,57.16,"Dubbo,Bathurst",NSW,Australia,"0.5,0.5"
+24780: Mildura,Mildura,57216,862,49320192,0.78,52.59,Mildura,VIC,Australia,1
+55530: Mingenew,Mingenew,423,966,408618,0.88,58.93,Geraldton,WA,Australia,1
+44340: Mitcham,Mitcham,68363,1208,82582504,1.10,73.70,Adelaide,SA,Australia,1
+24850: Mitchell,Mitchell,51654,1010,52170540,0.92,61.62,"Melbourne,Shepparton,Bendigo",VIC,Australia,"0.7,0.2,0.1"
+24900: Moira,Moira,30571,776,23723096,0.71,47.34,Shepparton,VIC,Australia,1
+24970: Monash,Monash,194877,1109,216118593,1.01,67.66,Melbourne,VIC,Australia,1
+25060: Moonee Valley,Moonee Valley,123038,1299,159826362,1.18,79.25,Melbourne,VIC,Australia,1
+55600: Moora,Moora,2376,987,2345112,0.90,60.21,Perth,WA,Australia,1
+25150: Moorabool,Moorabool,38506,1057,40700842,0.96,64.49,Ballarat,VIC,Australia,1
+55670: Morawa,Morawa,668,944,630592,0.86,57.59,Geraldton,WA,Australia,1
+15300: Moree Plains,Moree Plains,12869,981,12624489,0.89,59.85,Narrabri,NSW,Australia,1
+25250: Moreland,Moreland,174735,1246,217719810,1.13,76.02,Melbourne,VIC,Australia,1
+35010: Moreton Bay,Moreton Bay,496777,988,490815676,0.90,60.28,Brisbane,QLD,Australia,1
+35250: Mornington,Mornington,1065,379,403635,0.35,23.12,Normanton,QLD,Australia,1
+25340: Mornington Peninsula,Mornington Peninsula,169663,995,168814685,0.91,60.70,Melbourne,VIC,Australia,1
+15350: Mosman,Mosman,28123,1977,55599171,1.80,120.61,Sydney,NSW,Australia,1
+55740: Mosman Park,Mosman Park,9605,1433,13763965,1.30,87.42,Perth,WA,Australia,1
+25430: Mount Alexander,Mount Alexander,20317,837,17005329,0.76,51.06,Bendigo,VIC,Australia,1
+44550: Mount Barker,Mount Barker,41089,1056,43389984,0.96,64.42,Adelaide,SA,Australia,1
+44620: Mount Gambier,Mount Gambier,27749,831,23059419,0.76,50.70,Mount Gambier,SA,Australia,1
+35300: Mount Isa,Mount Isa,19047,1436,27351492,1.31,87.61,Mount Isa,QLD,Australia,1
+55810: Mount Magnet,Mount Magnet,701,833,583933,0.76,50.82,Meekatharra,WA,Australia,1
+55880: Mount Marshall,Mount Marshall,463,959,444017,0.87,58.51,Perth,WA,Australia,1
+44830: Mount Remarkable,Mount Remarkable,2912,749,2181088,0.68,45.69,Port Augusta,SA,Australia,1
+25490: Moyne,Moyne,17470,952,16631440,0.87,58.08,Warrnambool,VIC,Australia,1
+55950: Mukinbudin,Mukinbudin,587,1009,592283,0.92,61.56,Perth,WA,Australia,1
+56090: Mundaring,Mundaring,40498,1127,45641246,1.03,68.76,Perth,WA,Australia,1
+56160: Murchison,Murchison,108,1031,111348,0.94,62.90,Geraldton,WA,Australia,1
+56230: Murray,Murray,19110,863,16491930,0.79,52.65,Perth,WA,Australia,1
+45040: Murray Bridge,Murray Bridge,22538,723,16294974,0.66,44.11,Adelaide,SA,Australia,1
+15520: Murray River,Murray River,13016,810,10542960,0.74,49.42,"Mildura,Bendigo,Shepparton",VIC,Australia,"0.2,0.4,0.4"
+25620: Murrindindi,Murrindindi,15348,856,13137888,0.78,52.22,"Melbourne,Shepparton",VIC,Australia,"0.6,0.4"
+15560: Murrumbidgee,Murrumbidgee,3566,925,3298550,0.84,56.43,Griffith,NSW,Australia,1
+35600: Murweh,Murweh,3961,895,3545095,0.81,54.60,Charleville,QLD,Australia,1
+15650: Muswellbrook,Muswellbrook,16540,1025,16953500,0.93,62.53,Newcastle,NSW,Australia,1
+15700: Nambucca Valley,Nambucca Valley,20610,648,13355280,0.59,39.53,Coffs Harbour,NSW,Australia,1
+56300: Nannup,Nannup,1592,749,1192408,0.68,45.69,Bunbury,WA,Australia,1
+35670: Napranum,Napranum,906,454,411324,0.41,27.70,Weipa,WA,Australia,1
+45090: Naracoorte Lucindale,Naracoorte Lucindale,8917,917,8176889,0.83,55.94,Mount Gambier,SA,Australia,1
+56370: Narembeen,Narembeen,822,1064,874608,0.97,64.91,Perth,WA,Australia,1
+15750: Narrabri,Narrabri,12721,966,12288486,0.88,58.93,Narrabri,NSW,Australia,1
+15800: Narrandera,Narrandera,5721,777,4445217,0.71,47.40,Griffith,NSW,Australia,1
+56460: Narrogin,Narrogin,4956,893,4425708,0.81,54.48,Perth,WA,Australia,1
+15850: Narromine,Narromine,6430,835,5369050,0.76,50.94,Dubbo,NSW,Australia,1
+56580: Nedlands,Nedlands,22973,1821,41833833,1.66,111.10,Perth,WA,Australia,1
+15900: Newcastle,Newcastle,171528,1127,193312056,1.03,68.76,Newcastle,NSW,Australia,1
+56620: Ngaanyatjarraku,Ngaanyatjarraku,1477,556,821212,0.51,33.92,Uluru,NT,Australia,1
+25710: Nillumbik,Nillumbik,63041,1373,86555293,1.25,83.76,Melbourne,VIC,Australia,1
+35740: Noosa,Noosa,57329,938,53774602,0.85,57.23,Sunshine Coast,QLD,Australia,1
+35760: North Burnett,North Burnett,10216,684,6987744,0.62,41.73,Bundaberg,QLD,Australia,1
+15950: North Sydney,North Sydney,69341,1959,135839019,1.78,119.51,Sydney,NSW,Australia,1
+56730: Northam,Northam,11934,837,9988758,0.76,51.06,Perth,WA,Australia,1
+56790: Northampton,Northampton,3341,763,2549183,0.69,46.55,Geraldton,WA,Australia,1
+45120: Northern Areas,Northern Areas,4663,763,3557869,0.69,46.55,Port Augusta,SA,Australia,1
+15990: Northern Beaches,Northern Beaches,263298,1557,409954986,1.42,94.99,Sydney,NSW,Australia,1
+25810: Northern Grampians,Northern Grampians,11875,762,9048750,0.69,46.49,"Bendigo,Horsham",VIC,Australia,"0.4,0.6"
+64610: Northern Midlands,Northern Midlands,14138,829,11720402,0.75,50.58,Launceston,TAS,Australia,1
+35780: Northern Peninsula Area,Northern Peninsula Area,2890,684,1976760,0.62,41.73,Torres Strait,QLD,Australia,1
+45290: Norwood Payneham and St Peters,Norwood Payneham and St Peters,38005,1130,42945650,1.03,68.94,Adelaide,SA,Australia,1
+56860: Nungarin,Nungarin,261,741,193401,0.67,45.21,Perth,WA,Australia,1
+16100: Oberon,Oberon,5597,951,5322747,0.87,58.02,Bathurst,NSW,Australia,1
+45340: Onkaparinga,Onkaparinga,178550,898,160337900,0.82,54.79,Adelaide,SA,Australia,1
+16150: Orange,Orange,43963,1054,46337002,0.96,64.30,Bathurst,NSW,Australia,1
+45400: Orroroo Carrieton,Orroroo Carrieton,890,706,628340,0.64,43.07,Port Augusta,SA,Australia,1
+35790: Palm Island,Palm Island,2194,475,1042150,0.43,28.98,Townsville,QLD,Australia,1
+72800: Palmerston,Palmerston,40414,1329,53710206,1.21,81.08,Darwin,NT,Australia,1
+16200: Parkes,Parkes,14347,873,12524931,0.79,53.26,Parkes,NSW,Australia,1
+35800: Paroo,Paroo,1713,600,1027800,0.55,36.60,Charleville,QLD,Australia,1
+16260: Parramatta,Parramatta,260379,1225,318964275,1.12,74.73,Sydney,NSW,Australia,1
+16350: Penrith,Penrith,220908,1104,243882432,1.01,67.35,Sydney,NSW,Australia,1
+56930: Peppermint Grove,Peppermint Grove,1636,2370,3877320,2.16,144.59,Perth,WA,Australia,1
+57000: Perenjori,Perenjori,652,1118,728936,1.02,68.21,Geraldton,WA,Australia,1
+57080: Perth,Perth,30466,1468,44724088,1.34,89.56,Perth,WA,Australia,1
+45540: Peterborough,Peterborough,1672,495,827640,0.45,30.20,Port Augusta,SA,Australia,1
+57140: Pingelly,Pingelly,1067,686,731962,0.62,41.85,Perth,WA,Australia,1
+57210: Plantagenet,Plantagenet,5586,755,4217430,0.69,46.06,Albany,WA,Australia,1
+45680: Playford,Playford,103414,777,80352678,0.71,47.40,Adelaide,SA,Australia,1
+36070: Pormpuraaw,Pormpuraaw,637,517,329329,0.47,31.54,Weipa,QLD,Australia,1
+45890: Port Adelaide Enfield,Port Adelaide Enfield,135806,925,125620550,0.84,56.43,Adelaide,SA,Australia,1
+46090: Port Augusta,Port Augusta,14451,860,12427860,0.78,52.47,Port Augusta,SA,Australia,1
+57280: Port Hedland,Port Hedland,17015,1845,31392675,1.68,112.56,Port Hedland,WA,Australia,1
+46300: Port Lincoln,Port Lincoln,14956,848,12682688,0.77,51.73,Port Lincoln,SA,Australia,1
+16380: Port Macquarie-Hastings,Port Macquarie-Hastings,88311,822,72591642,0.75,50.15,Port Macquarie,NSW,Australia,1
+25900: Port Phillip,Port Phillip,103990,1602,166591980,1.46,97.73,Melbourne,VIC,Australia,1
+46450: Port Pirie,Port Pirie,17621,714,12581394,0.65,43.56,Port Augusta,SA,Australia,1
+16400: Port Stephens,Port Stephens,76672,878,67318016,0.80,53.56,Newcastle,NSW,Australia,1
+46510: Prospect,Prospect,22744,1240,28202560,1.13,75.65,Adelaide,SA,Australia,1
+25990: Pyrenees,Pyrenees,7651,728,5569928,0.66,44.41,Ballarat,SA,Australia,1
+57350: Quairading,Quairading,982,744,730608,0.68,45.39,Perth,WA,Australia,1
+16490: Queanbeyan-Palerang Regional,Queanbeyan-Palerang Regional,64233,1447,92945151,1.32,88.28,Canberra,ACT,Australia,1
+26080: Queenscliffe,Queenscliffe,3220,1065,3429300,0.97,64.97,Melbourne,VIC,Australia,1
+36150: Quilpie,Quilpie,703,1039,730417,0.95,63.39,Charleville,QLD,Australia,1
+16550: Randwick,Randwick,135686,1524,206785464,1.39,92.98,Sydney,NSW,Australia,1
+57420: Ravensthorpe,Ravensthorpe,2200,1080,2376000,0.98,65.89,Esperance,WA,Australia,1
+36250: Redland,Redland,163732,1046,171263672,0.95,63.81,Brisbane,QLD,Australia,1
+46670: Renmark Paringa,Renmark Paringa,10035,801,8038035,0.73,48.87,Mildura,VIC,Australia,1
+36300: Richmond,Richmond,777,1080,839160,0.98,65.89,Hughenden,QLD,Australia,1
+16610: Richmond Valley,Richmond Valley,23702,735,17420970,0.67,44.84,Ballina,NSW,Australia,1
+46860: Robe,Robe,1588,869,1379972,0.79,53.02,Mount Gambier,SA,Australia,1
+36370: Rockhampton,Rockhampton,83604,947,79172988,0.86,57.77,Rockhampton,QLD,Australia,1
+57490: Rockingham,Rockingham,143653,1051,150979303,0.96,64.12,Perth,WA,Australia,1
+73600: Roper Gulf,Roper Gulf,7477,479,3581483,0.44,29.22,Katherine,NT,Australia,1
+46970: Roxby Downs,Roxby Downs,4102,1969,8076838,1.79,120.12,Roxby Downs,SA,Australia,1
+16700: Ryde,Ryde,131122,1320,173081040,1.20,80.53,Sydney,NSW,Australia,1
+47140: Salisbury,Salisbury,147932,827,122339764,0.75,50.45,Adelaide,SA,Australia,1
+57630: Sandstone,Sandstone,119,850,101150,0.77,51.86,Meekatharra,WA,Australia,1
+36510: Scenic Rim,Scenic Rim,44333,866,38392378,0.79,52.83,"Gold Coast,Brisbane",QLD,Australia,"0.5,0.5"
+57700: Serpentine-Jarrahdale,Serpentine-Jarrahdale,34773,1174,40823502,1.07,71.62,Perth,WA,Australia,1
+57770: Shark Bay,Shark Bay,1081,894,966414,0.81,54.54,"Carnavon,Geraldton",WA,Australia,"0.5,0.5"
+16900: Shellharbour,Shellharbour,78332,977,76530364,0.89,59.60,Wollongong,NSW,Australia,1
+16950: Shoalhaven,Shoalhaven,109611,803,88017633,0.73,48.99,Wollongong,NSW,Australia,1
+17000: Singleton,Singleton,25093,1157,29032601,1.05,70.59,Newcastle,NSW,Australia,1
+17040: Snowy Monaro Regional,Snowy Monaro Regional,21823,1026,22390398,0.93,62.59,"Canberra,Bega","ACT,NSW",Australia,"0.7,0.3"
+17080: Snowy Valleys,Snowy Valleys,14936,854,12755344,0.78,52.10,Wagga Wagga,NSW,Australia,1
+36580: Somerset,Somerset,25713,799,20544687,0.73,48.75,"Toowoomba,Brisbane,Sunshine Coast",QLD,Australia,"0.4,0.4,0.2"
+64810: Sorell,Sorell,17430,897,15634710,0.82,54.72,Hobart,NSW,Australia,1
+36630: South Burnett,South Burnett,33789,682,23044098,0.62,41.61,"Toowoomba,Sunshine Coast",QLD,Australia,"0.5,0.5"
+26170: South Gippsland,South Gippsland,30697,824,25294328,0.75,50.27,Morwell,VIC,Australia,1
+57840: South Perth,South Perth,45137,1372,61927964,1.25,83.70,Perth,WA,Australia,1
+36660: Southern Downs,Southern Downs,36994,722,26709668,0.66,44.05,Toowoomba,QLD,Australia,1
+26260: Southern Grampians,Southern Grampians,16393,849,13917657,0.77,51.80,"Warrnambool,Horsham",VIC,Australia,"0.5,0.5"
+47290: Southern Mallee,Southern Mallee,2011,866,1741526,0.79,52.83,Adelaide,SA,Australia,1
+65010: Southern Midlands,Southern Midlands,6888,822,5661936,0.75,50.15,Hobart,TAS,Australia,1
+57910: Stirling,Stirling,235983,1180,278459940,1.07,71.99,Perth,WA,Australia,1
+26350: Stonnington,Stonnington,106418,1672,177930896,1.52,102.01,Melbourne,VIC,Australia,1
+26430: Strathbogie,Strathbogie,11510,804,9254040,0.73,49.05,Shepparton,VIC,Australia,1
+17100: Strathfield,Strathfield,46230,1220,56400600,1.11,74.43,Sydney,NSW,Australia,1
+47490: Streaky Bay,Streaky Bay,2257,759,1713063,0.69,46.30,Ceduna,SA,Australia,1
+57980: Subiaco,Subiaco,17976,1541,27701016,1.40,94.01,Perth,WA,Australia,1
+36720: Sunshine Coast,Sunshine Coast,355889,983,349838887,0.90,59.97,Sunshine Coast,QLD,Australia,1
+26490: Surf Coast,Surf Coast,38652,1231,47580612,1.12,75.10,Melbourne,VIC,Australia,1
+17150: Sutherland Shire,Sutherland Shire,231839,1366,316692074,1.24,83.34,Sydney,NSW,Australia,1
+58050: Swan,Swan,163817,1085,177741445,0.99,66.19,Perth,WA,Australia,1
+26610: Swan Hill,Swan Hill,21225,877,18614325,0.80,53.50,Mildura,VIC,Australia,1
+17200: Sydney,Sydney,218096,1673,364874608,1.52,102.07,Sydney,NSW,Australia,1
+36820: Tablelands,Tablelands,26808,766,20534928,0.70,46.73,Cairns,QLD,Australia,1
+58190: Tammin,Tammin,403,732,294996,0.67,44.66,Perth,WA,Australia,1
+17310: Tamworth Regional,Tamworth Regional,64522,915,59037630,0.83,55.82,Tamworth,NSW,Australia,1
+65210: Tasman,Tasman,2676,603,1613628,0.55,36.79,Hobart,TAS,Australia,1
+47630: Tatiara,Tatiara,7038,955,6721290,0.87,58.26,Mount Gambier,VIC,Australia,1
+47700: Tea Tree Gully,Tea Tree Gully,102619,1005,103132095,0.92,61.31,Adelaide,SA,Australia,1
+17350: Temora,Temora,5996,786,4712856,0.72,47.95,Wagga Wagga,NSW,Australia,1
+17400: Tenterfield,Tenterfield,6879,609,4189311,0.55,37.15,Armidale,NSW,Australia,1
+17420: The Hills Shire,The Hills Shire,199244,1487,296275828,1.35,90.72,Sydney,NSW,Australia,1
+58260: Three Springs,Three Springs,587,1016,596392,0.93,61.98,Geraldton,WA,Australia,1
+74050: Tiwi Islands,Tiwi Islands,2745,359,985455,0.33,21.90,Darwin,NT,Australia,1
+58330: Toodyay,Toodyay,4812,810,3897720,0.74,49.42,Perth,WA,Australia,1
+36910: Toowoomba,Toowoomba,178399,938,167338262,0.85,57.23,Toowoomba,QLD,Australia,1
+36950: Torres,Torres,3518,1150,4045700,1.05,70.16,Torres Strait,QLD,Australia,1
+36960: Torres Strait Island,Torres Strait Island,4286,517,2215862,0.47,31.54,Torres Strait,QLD,Australia,1
+37010: Townsville,Townsville,198143,1080,213994440,0.98,65.89,Townsville,QLD,Australia,1
+26670: Towong,Towong,6196,846,5241816,0.77,51.61,Albury-Wodonga,NSW,Australia,1
+58400: Trayning,Trayning,304,609,185136,0.55,37.15,Perth,WA,Australia,1
+47910: Tumby Bay,Tumby Bay,2893,749,2166857,0.68,45.69,Port Lincoln,SA,Australia,1
+17550: Tweed,Tweed,97969,835,81804115,0.76,50.94,Gold Coast,QLD,Australia,1
+99399: Unincorp. Other Territories,Unincorp. Other Territories,2524,852,2150448,0.78,51.98,,,Australia,1
+89399: Unincorporated ACT,Unincorporated ACT,456844,1553,709478732,1.41,94.75,Canberra,ACT,Australia,1
+19399: Unincorporated NSW,Unincorporated NSW,1000,1088,1088000,0.99,66.38,Broken Hill,NSW,Australia,1
+79399: Unincorporated NT,Unincorporated NT,7628,1393,10625804,1.27,84.98,"Darwin,Uluru",NT,Australia,"0.85,0.15"
+49399: Unincorporated SA,Unincorporated SA,3024,773,2337552,0.70,47.16,"Port Augusta,Roxby Downs,Coober Pedy,Ceduna",,Australia,"0.4,0.2,0.2,0.2"
+29399: Unincorporated Vic,Unincorporated Vic,961,1095,1052295,1.00,66.80,Melbourne,VIC,Australia,1
+47980: Unley,Unley,39082,1309,51158338,1.19,79.86,Adelaide,SA,Australia,1
+58470: Upper Gascoyne,Upper Gascoyne,188,680,127840,0.62,41.49,Carnavon,WA,Australia,1
+17620: Upper Hunter Shire,Upper Hunter Shire,14293,946,13521178,0.86,57.71,Tamworth,NSW,Australia,1
+17640: Upper Lachlan Shire,Upper Lachlan Shire,8551,939,8029389,0.86,57.29,Goulburn,NSW,Australia,1
+17650: Uralla,Uralla,5985,868,5194980,0.79,52.95,Armidale,NSW,Australia,1
+48050: Victor Harbor,Victor Harbor,16726,675,11290050,0.61,41.18,Adelaide,SA,Australia,1
+74550: Victoria Daly,Victoria Daly,3263,561,1830543,0.51,34.23,"Katherine,Kununurra",NT,Australia,"0.5,0.5"
+58510: Victoria Park,Victoria Park,38687,1241,48010567,1.13,75.71,Perth,WA,Australia,1
+58540: Victoria Plains,Victoria Plains,824,1139,938536,1.04,69.49,Perth,WA,Australia,1
+58570: Vincent,Vincent,38442,1561,60007962,1.42,95.23,Perth,WA,Australia,1
+74560: Wagait,Wagait,463,890,412070,0.81,54.30,Darwin,NT,Australia,1
+17750: Wagga Wagga,Wagga Wagga,68337,1035,70728795,0.94,63.14,Wagga Wagga,NSW,Australia,1
+58610: Wagin,Wagin,1809,836,1512324,0.76,51.00,Bunbury,WA,Australia,1
+48130: Wakefield,Wakefield,6971,746,5200366,0.68,45.51,Adelaide,SA,Australia,1
+17850: Walcha,Walcha,3010,795,2392950,0.72,48.50,Armidale,NSW,Australia,1
+17900: Walgett,Walgett,5516,679,3745364,0.62,41.42,Narrabri,NSW,Australia,1
+48260: Walkerville,Walkerville,8182,1350,11045700,1.23,82.36,Adelaide,SA,Australia,1
+58680: Wandering,Wandering,548,1048,574304,0.95,63.94,Perth,WA,Australia,1
+26700: Wangaratta,Wangaratta,29903,872,26075416,0.79,53.20,Albury-Wodonga,NSW,Australia,1
+58760: Wanneroo,Wanneroo,221064,1088,240517632,0.99,66.38,Perth,WA,Australia,1
+65410: Waratah-Wynyard,Waratah-Wynyard,14689,755,11090195,0.69,46.06,Launceston,TAS,Australia,1
+58820: Waroona,Waroona,4399,844,3712756,0.77,51.49,Bunbury,WA,Australia,1
+17950: Warren,Warren,2578,881,2271218,0.80,53.75,Dubbo,NSW,Australia,1
+26730: Warrnambool,Warrnambool,35559,937,33318783,0.85,57.16,Warrnambol,VIC,Australia,1
+18020: Warrumbungle Shire,Warrumbungle Shire,9246,694,6416724,0.63,42.34,"Dubbo,Narrabri",NSW,Australia,"0.75,0.25"
+48340: Wattle Range,Wattle Range,12181,781,9513361,0.71,47.65,Mount Gambier,SA,Australia,1
+18050: Waverley,Waverley,69324,1894,131299656,1.72,115.55,Sydney,NSW,Australia,1
+18100: Weddin,Weddin,3614,700,2529800,0.64,42.71,Parkes,NSW,Australia,1
+37300: Weipa,Weipa,4215,1813,7641795,1.65,110.61,Weipa,QLD,Australia,1
+26810: Wellington,Wellington,45799,834,38196366,0.76,50.88,"Morwell,Bairnsdale",VIC,Australia,"0.6,0.4"
+18200: Wentworth,Wentworth,7597,883,6708151,0.80,53.87,Mildura,VIC,Australia,1
+74660: West Arnhem,West Arnhem,7260,564,4094640,0.51,34.41,Gove,NT,Australia,1
+58890: West Arthur,West Arthur,797,912,726864,0.83,55.64,Bunbury,WA,Australia,1
+65610: West Coast,West Coast,4351,653,2841203,0.59,39.84,Launceston,TAS,Australia,1
+74680: West Daly,West Daly,3435,312,1071720,0.28,19.03,Darwin,NT,Australia,1
+65810: West Tamar,West Tamar,25932,895,23209140,0.81,54.60,Launceston,TAS,Australia,1
+48410: West Torrens,West Torrens,63099,1038,65496762,0.95,63.33,Adelaide,SA,Australia,1
+26890: West Wimmera,West Wimmera,3942,811,3196962,0.74,49.48,Horsham,VIC,Australia,1
+37310: Western Downs,Western Downs,34542,869,30016998,0.79,53.02,"Toowoomba,Roma",QLD,Australia,"0.6,0.4"
+59030: Westonia,Westonia,252,866,218232,0.79,52.83,Perth,WA,Australia,1
+26980: Whitehorse,Whitehorse,172466,1121,193334386,1.02,68.39,Melbourne,VIC,Australia,1
+37340: Whitsunday,Whitsunday,38506,956,36811736,0.87,58.32,"Townsville,Mackay",QLD,Australia,"0.1,0.9"
+27070: Whittlesea,Whittlesea,236966,992,235070272,0.90,60.52,Melbourne,VIC,Australia,1
+48540: Whyalla,Whyalla,21890,826,18081140,0.75,50.39,Port Augusta,SA,Australia,1
+59100: Wickepin,Wickepin,706,862,608572,0.78,52.59,Perth,WA,Australia,1
+59170: Williams,Williams,1053,1114,1173042,1.01,67.96,Bunbury,WA,Australia,1
+18250: Willoughby,Willoughby,75473,1653,124756869,1.51,100.85,Sydney,NSW,Australia,1
+59250: Wiluna,Wiluna,572,837,478764,0.76,51.06,Meekatharra,WA,Australia,1
+18350: Wingecarribee,Wingecarribee,52795,1041,54959595,0.95,63.51,Goulburn,NSW,Australia,1
+37400: Winton,Winton,1134,964,1093176,0.88,58.81,Longreach,QLD,Australia,1
+27170: Wodonga,Wodonga,43694,972,42470568,0.89,59.30,Albury-Wodonga,NSW,Australia,1
+18400: Wollondilly,Wollondilly,55801,1167,65119767,1.06,71.20,Sydney,NSW,Australia,1
+18450: Wollongong,Wollongong,216431,1031,223140361,0.94,62.90,Wollongong,NSW,Australia,1
+59310: Wongan-Ballidu,Wongan-Ballidu,1338,916,1225608,0.83,55.88,Perth,WA,Australia,1
+59320: Woodanilling,Woodanilling,470,831,390570,0.76,50.70,Albany,WA,Australia,1
+18500: Woollahra,Woollahra,53505,2097,112199985,1.91,127.93,Sydney,NSW,Australia,1
+37550: Woorabinda,Woorabinda,1059,403,426777,0.37,24.59,Emerald,QLD,Australia,1
+48640: Wudinna,Wudinna,1162,880,1022560,0.80,53.69,Port Lincoln,SA,Australia,1
+37570: Wujal Wujal,Wujal Wujal,286,436,124696,0.40,26.60,Cairns,QLD,Australia,1
+59330: Wyalkatchem,Wyalkatchem,485,664,322040,0.60,40.51,Perth,WA,Australia,1
+27260: Wyndham,Wyndham,309125,1094,338182750,1.00,66.74,Melbourne,VIC,Australia,1
+59340: Wyndham-East Kimberley,Wyndham-East Kimberley,8057,1234,9942338,1.12,75.28,Kununurra,WA,Australia,1
+59350: Yalgoo,Yalgoo,365,982,358430,0.89,59.91,Geraldton,WA,Australia,1
+48750: Yankalilla,Yankalilla,5992,704,4218368,0.64,42.95,Adelaide,SA,Australia,1
+27350: Yarra,Yarra,92301,1705,157373205,1.55,104.02,Melbourne,VIC,Australia,1
+27450: Yarra Ranges,Yarra Ranges,157388,1080,169979040,0.98,65.89,Melbourne,VIC,Australia,1
+37600: Yarrabah,Yarrabah,2619,476,1246644,0.43,29.04,Cairns,QLD,Australia,1
+27630: Yarriambiack,Yarriambiack,6435,736,4736160,0.67,44.90,"Horsham,Mildura",VIC,Australia,"0.8,0.2"
+18710: Yass Valley,Yass Valley,17379,1356,23565924,1.23,82.73,Canberra,ACT,Australia,1
+59360: Yilgarn,Yilgarn,1196,973,1163708,0.89,59.36,Kalgoorie,WA,Australia,1
+59370: York,York,3567,759,2707353,0.69,46.30,Perth,WA,Australia,1
+48830: Yorke Peninsula,Yorke Peninsula,11921,657,7832097,0.60,40.08,Adelaide,SA,Australia,1
+,All Australia,"26,005,540","1,098","28,559,769,425",,,,,,
+,,GDP/head,67,,,,,,,
