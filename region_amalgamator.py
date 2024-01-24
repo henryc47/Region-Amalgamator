@@ -10,8 +10,16 @@ def region_amalgamator(airport_filename,region_filename,output_filename):
     region_filepath = os.path.join(region_folder,region_filename)
     output_filepath = os.path.join(output_folder,output_filename)
     airport_df = pd.read_csv(airport_filepath)
-    region_df = pd.read_csv(region_filepath)
+    regions_df = pd.read_csv(region_filepath)
     airport_names,airport_name_indices_dict = get_airport_unique_names(airport_df)
+    airport_df["Population from Regions"] = 0
+    airport_df["GDP from Regions"] = 0
+    regions_df = regions_df.apply(calculate_GDP,axis=1)
+    print(regions_df)
+
+def calculate_GDP(df):
+    df["GDP"] = df["Population"]*df["GDP/head"]
+    return df
 
 def get_airport_unique_names(df):
     num_airports = len(df)
